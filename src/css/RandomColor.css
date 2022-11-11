@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.colorBox {
+  width: 150px;
+  height: 80px;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+button {
+  font-size: 28px;
+  padding: 16px;
+  margin-top: 20px;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  border-color: #5f9ea0;
+}
